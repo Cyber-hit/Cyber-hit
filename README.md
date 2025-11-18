@@ -1,16 +1,14 @@
-# Hi, I'm HIT! 👋     
+Hi! I'm Hit 👋
+I love learning from the community and contributing back whenever I can.
 
-## About Me
-I'm HIT, a passionate developer interested in technology and coding. I enjoy building projects and exploring new technologies.
+🔭 Currently exploring open-source projects
 
-## Skills
-- Programming Languages: Python, JavaScript
-- Tools: Git, VS Code
+🧩 Practicing LeetCode & DSA
 
-## Projects
-- [Project 1](link): Description
-- [Project 2](link): Description
+🛠️ Building cool tools and mini-projects
+
+🤝 Always up for collaboration
 
 ## Contact
 - GitHub: [HIT](https://github.com/HIT)
-- Email: your-email@example.com
+- Email: hitagarwaldmbsr@gmail.com
